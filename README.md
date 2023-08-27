@@ -7,4 +7,4 @@
   <br>
 
 >:nut_and_bolt: Other
-  <img src="https://badge.mediaplus.ma/darkblue/minkyuki?1337Badge=off">
+  <img src="https://badge.mediaplus.ma/black/minkyuki?1337Badge=off">
