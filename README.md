@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Minkyu Kim👋</h1>
+<h1 align="left">Hi, I'm Minkyu Kim 🙋🏻‍♂️</h1>
 
 >🏆 Github Trophy
 <h1 align="center">
