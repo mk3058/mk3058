@@ -2,7 +2,7 @@
 
 >🏆 Github Trophy
 <h1 align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mk3058&theme=flat&column=-1">
+  <img src="https://github-profile-trophy.vercel.app/?username=mk3058&column=-1">
 </h1>
   <br>
 
